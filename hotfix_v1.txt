@@ -1,0 +1,1 @@
+What if you need to just fix a bug on the latest release? You don’t want to create a new release, because that will pick up the recent changes from the development branch. So instead, you can start a hot fix:
